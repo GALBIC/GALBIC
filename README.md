@@ -1,4 +1,25 @@
+Hi there! 👋 I'm Mohammad (Braxise)
+Back-End Specialist & Team Leader of GALBIC
 
+🚀 Leading a passionate team of developers and creatives at GALBIC, where we build:
+
+Web Applications (Full-Stack Solutions)
+
+Telegram & Instagram Bots (Automation & Engagement)
+
+Android Apps (User-Centric Mobile Experiences)
+
+Meet the Team
+Koorosh – UI/UX & Front-End Specialist (Crafting beautiful interfaces)
+
+Braxise (Me) – Back-End Development (Building robust systems)
+
+Sina – SEO Specialist (Driving visibility & growth)
+
+🎓 Computer Science Students at Shiraz University, Iran
+💡 Passionate about solving real-world problems through clean, efficient code and innovative tech.
+
+🔗 Let’s collaborate! Open to freelance projects, internships, and tech discussions.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/braxise11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/galbic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:braxisemiller@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GalbicDev)
 
